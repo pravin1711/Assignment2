@@ -1,6 +1,7 @@
-from sklearn import svm, datasets
+
 from sklearn.model_selection import train_test_split
 from sklearn import metrics
+from sklearn import  datasets, svm
 import matplotlib.pyplot as plt
 
 
